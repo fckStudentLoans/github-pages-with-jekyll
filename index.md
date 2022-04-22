@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "FSL Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to the blog for all things F*ckStudentLoans
